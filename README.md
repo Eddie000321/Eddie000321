@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! Here's a little about me:
 
 ## 🌟 About Me
-- 🔭 Currently learning **Web Development** and **Software Engineering**
-- 🌱 Improving skills in **C#**, **HTML**, **CSS**, **Java**, **Python**, and **Swift**
+- 🔭 Currently learning **Software Engineering**
+- 🌱 Improving skills in **C#**, **Java**, **Python**, and **Swift**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eddie-lee-7b7271229/)
 
 ---
