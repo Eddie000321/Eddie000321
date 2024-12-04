@@ -32,6 +32,8 @@ Welcome to my GitHub profile! Here's a little about me:
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-333333?logo=cursor&logoColor=white)
 ![Visio](https://img.shields.io/badge/-Visio-3955A3?logo=microsoftvisio&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white)
 
 ---
 
