@@ -27,4 +27,4 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🔗 Links
 - 💼 [LinkedIn](https://www.linkedin.com/in/eddie-lee-7b7271229/)
-- 🌐 [Portfolio]([http://studentweb.cencol.ca/jlee661/](http://studentweb.cencol.ca/jlee661/project/index.html)) (Explore my projects!)
+- 🌐 [Portfolio](http://studentweb.cencol.ca/jlee661/project/index.html) (Explore my projects!)
