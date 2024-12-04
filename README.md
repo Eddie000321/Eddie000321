@@ -15,6 +15,8 @@ Welcome to my GitHub profile! Here's a little about me:
 ---
 
 ## 🛠️ Skills & Tools
+
+### Programming Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -22,6 +24,14 @@ Welcome to my GitHub profile! Here's a little about me:
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
+
+### Tools
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-333333?logo=cursor&logoColor=white)
+![Visio](https://img.shields.io/badge/-Visio-3955A3?logo=microsoftvisio&logoColor=white)
 
 ---
 
