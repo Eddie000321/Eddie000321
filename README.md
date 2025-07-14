@@ -38,6 +38,7 @@ Welcome to my GitHub profile! Here's a little about me:
 ### DevOps & Platform
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Unix/Linux](https://img.shields.io/badge/-Unix%2FLinux-FCC624?logo=linux&logoColor=black)
 
 ### IDEs & Other Tools
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)
@@ -46,6 +47,9 @@ Welcome to my GitHub profile! Here's a little about me:
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white)
 ![Visio](https://img.shields.io/badge/-Visio-3955A3?logo=microsoftvisio&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)
+![Word](https://img.shields.io/badge/-Word-2B579A?logo=microsoftword&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white)
 
 ## 🔗 Links
 - 💼 [LinkedIn](https://www.linkedin.com/in/eddie-lee-7b7271229/)
