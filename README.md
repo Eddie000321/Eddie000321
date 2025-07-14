@@ -18,11 +18,12 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
+
 
 ### Frameworks, Libraries & Runtime
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
