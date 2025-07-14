@@ -24,10 +24,11 @@ Welcome to my GitHub profile! Here's a little about me:
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+### Frameworks, Libraries & Runtime
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
