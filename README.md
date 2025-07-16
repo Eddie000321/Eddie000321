@@ -33,6 +33,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-07405E?logo=sqlite&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle%20SQL-F80000?logo=oracle&logoColor=white)
 
