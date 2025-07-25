@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🌟 About Me
 - 🔭 Currently learning **Software Engineering** and **Computer Science**
-- 🌱 Improving skills in **C#**, **Java**, **Python**, **Swift**, and **C**
+- 🌱 Improving skills in **C#**, **Java**, **Python**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eddie-lee-7b7271229/)
 
 ---
