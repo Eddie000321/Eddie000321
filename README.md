@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Here's a little about me:
 ## 🌟 About Me
 - 🔭 Currently learning **Computer Science**
 - 🌱 Improving skills in **C#**, **Java**, **Python**
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/jaehyeok-lee-dev-programming)
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/jleedev)
 
 ---
 
