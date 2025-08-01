@@ -27,6 +27,7 @@ Welcome to my GitHub profile! Here's a little about me:
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
@@ -37,6 +38,8 @@ Welcome to my GitHub profile! Here's a little about me:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![Unix/Linux](https://img.shields.io/badge/-Unix%2FLinux-FCC624?logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white)
 
 ### IDEs & Other Tools
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)
