@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Here's a little about me:
 ## 🌟 About Me
 - 🎓 Studying **Software Engineering & Computer Science**
 - 🔭 Currently building: Vet Chart (Animal Hospital EMR)
-- 🌱 Improving skills in **C#/.NET (ASP.NET Core)**, **Node.js/Express**, **SQL (PostgreSQL · Oracle)**
+- 🌱 Improving skills in **C#/.NET (ASP.NET Core)**, **Python**, **SQL**
 - 📫 How to reach me: [www.linkedin.com/in/jleedev](https://www.linkedin.com/in/jleedev/)
 
 ---
@@ -55,21 +55,11 @@ Welcome to my GitHub profile! Here's a little about me:
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=for-the-badge)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=for-the-badge)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipseide&logoColor=fff&style=for-the-badge)
-![DataGrip](https://img.shields.io/badge/-DataGrip-000?logo=datagrip&logoColor=fff&style=for-the-badge)
-![Xcode](https://img.shields.io/badge/-Xcode-147EFB?logo=xcode&logoColor=fff&style=for-the-badge)
-![Unix/Linux](https://img.shields.io/badge/-Unix%2FLinux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=fff&style=for-the-badge)
-![macOS](https://img.shields.io/badge/-macOS-000?logo=apple&logoColor=fff&style=for-the-badge)
 
 ---
 
 ## 🚀 Featured Project
 **Vet Chart — Animal Hospital EMR (MVP)**  
 Owner/Pet/Visit **CRUD**, appointment workflow, simple billing  
-**Stack:** C#/.NET (API WIP), **Node.js**, **Express**, **PostgreSQL**, **Prisma**, **Docker**
 
 > *More coming soon. Check pinned repos below!*
