@@ -35,9 +35,9 @@ Welcome to my GitHub profile! Here's a little about me:
 ![REST API](https://img.shields.io/badge/-REST%20APIs-20232A?style=for-the-badge)
 
 ### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
