@@ -10,12 +10,6 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eddie000321&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eddie000321&layout=compact&theme=radical)
-
----
-
 ## 💻 Tech Stack
 
 ### Languages
@@ -54,11 +48,3 @@ Welcome to my GitHub profile! Here's a little about me:
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)
-
----
-
-## 🚀 Featured Project
-**Vet Chart — Animal Hospital EMR (MVP)**  
-Owner/Pet/Visit **CRUD**, appointment workflow, simple billing  
-
-> *More coming soon. Check pinned repos below!*
