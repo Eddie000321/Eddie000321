@@ -4,8 +4,6 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🌟 About Me
 - 🎓 Studying **Software Engineering & Computer Science**
-- 🔭 Currently building: Vet Chart (Animal Hospital EMR)
-- 🌱 Improving skills in **C#/.NET (ASP.NET Core)**, **Python**, **SQL**
 - 📫 How to reach me: [www.linkedin.com/in/jleedev](https://www.linkedin.com/in/jleedev/)
 
 ---
