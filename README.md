@@ -39,8 +39,8 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ### Cloud & DevOps
 ![Docker](https://img.shields.io/badge/-Docker-0db7ed?logo=docker&logoColor=fff&style=for-the-badge)
-![AWS⏳](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=fff&style=for-the-badge)
 ![Azure⏳](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoft-azure&logoColor=fff&style=for-the-badge)
+![AWS⏳](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=fff&style=for-the-badge)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
