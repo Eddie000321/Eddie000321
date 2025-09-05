@@ -36,6 +36,7 @@ Welcome to my GitHub profile! Here's a little about me:
 ![SQLite](https://img.shields.io/badge/-SQLite-07405E?logo=sqlite&logoColor=fff&style=for-the-badge)
 ![PostgreSQL⏳](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
 ![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-F80000?logo=oracle&logoColor=fff&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
 
 ### Cloud & DevOps
 ![Docker](https://img.shields.io/badge/-Docker-0db7ed?logo=docker&logoColor=fff&style=for-the-badge)
