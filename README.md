@@ -25,7 +25,6 @@ Welcome to my GitHub profile! Here's a little about me:
 ![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=fff&style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=fff&style=for-the-badge)
 
-
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
@@ -41,9 +40,8 @@ Welcome to my GitHub profile! Here's a little about me:
 ### Cloud & DevOps
 ![Docker](https://img.shields.io/badge/-Docker-0db7ed?logo=docker&logoColor=fff&style=for-the-badge)
 ![Azure⏳](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoft-azure&logoColor=fff&style=for-the-badge)
-![AWS⏳](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=fff&style=for-the-badge)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)
+
