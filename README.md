@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Eddie Lee!
+# 👋 Hello, I'm Jaehyeok Lee!
 
 Welcome to my GitHub profile! Here's a little about me:
 
