@@ -27,8 +27,6 @@ Welcome to my GitHub profile! Here's a little about me:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
 
 ### Backend
-![.NET⏳](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
-![ASP.NET Core⏳](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?logo=dotnet&logoColor=fff&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge)
 ![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=fff&style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=fff&style=for-the-badge)
