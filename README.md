@@ -1,12 +1,8 @@
 # 👋 Hello, I'm Jaehyeok Lee!
 
-Welcome to my GitHub profile! Here's a little about me:
-
 ## 🌟 About Me
 - 🎓 Studying **Software Engineering & Computer Science**
 - 📫 How to reach me: [www.linkedin.com/in/jleedev](https://www.linkedin.com/in/jleedev/)
-
----
 
 ## Tech Stack
 
