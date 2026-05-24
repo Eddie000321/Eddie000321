@@ -10,7 +10,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## Tech Stack
 
-### Core
+### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-1F6FEB?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
