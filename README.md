@@ -1,36 +1,54 @@
-# 👋 Hello, I'm Jaehyeok Lee!
+# Jaehyeok (Eddie) Lee
 
-## 🌟 About Me
-- 🎓 Studying **Software Engineering & Computer Science**
-- 📫 How to reach me: [www.linkedin.com/in/jleedev](https://www.linkedin.com/in/jleedev/)
+**Software Engineering Technology Co-op · Toronto, Canada**
 
-## Tech Stack
+I build evidence-led software across backend systems, operational data,
+automation, and applied computer vision. My projects emphasize explicit failure
+boundaries, reproducible verification, and interfaces that help people review a
+decision instead of hiding uncertainty.
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
-![SQL](https://img.shields.io/badge/-SQL-1F6FEB?style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-![C%23](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=fff&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=fff&style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/Portfolio-eddie000321.github.io-006f9c?style=flat-square)](https://eddie000321.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jleedev-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jleedev/)
+[![Email](https://img.shields.io/badge/Email-eddie000321%40outlook.com-587812?style=flat-square)](mailto:eddie000321@outlook.com)
 
-### Web & Backend
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge)
-![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=fff&style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
+> Open to Fall 2026 co-op and internship opportunities across software,
+> backend, data, applied computer vision, and workflow automation.
 
-### Data & Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
-![SQLite](https://img.shields.io/badge/-SQLite-07405E?logo=sqlite&logoColor=fff&style=for-the-badge)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=fff&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
+## Featured engineering work
 
-### Tools
-![Docker](https://img.shields.io/badge/-Docker-0db7ed?logo=docker&logoColor=fff&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)
+| Project | Engineering focus | Verified evidence |
+| --- | --- | --- |
+| [CareFlow](https://github.com/Eddie000321/CareFlow) | .NET 9, PostgreSQL, EF Core, retention-safe domain lifecycle | 23 tests · zero Release warnings/errors · zero known NuGet vulnerabilities |
+| [Evidence DocSearch](https://github.com/Eddie000321/docSearch) | FastAPI, FAISS, bounded document ingestion, inspectable retrieval evidence | 7 deterministic tests · TXT/PDF/DOCX · temporary isolated indexes |
+| [TTC Delay Insights](https://github.com/Eddie000321/ttc-delay-insights) | Deterministic ETL, PostgreSQL reporting, FastAPI, React | ~410K public records · 5 ETL tests · source-attributed outputs |
+| [Express Entry Dashboard](https://github.com/Eddie000321/expressEntryService) | Flask, SQLite, public-data validation, offline-safe bootstrap | 61 offline tests · 426 checksum-pinned IRCC records |
+| [Energy Usage Pipeline](https://github.com/Eddie000321/Energy-Usage-Data-Analysis-with-API) | API collection, deterministic transforms, reproducible charts | 120-month tracked dataset · network-free verification |
+| [Airline Ticketing Prototype](https://github.com/Eddie000321/AirlineSystem) | Oracle PL/SQL, transactional booking flow, Express API | Deterministic schema and booking demo scripts |
+
+The portfolio also presents public-safe case studies for private applied
+computer-vision and operational systems without exposing internal data,
+identifiers, or URLs.
+
+## How I work
+
+```text
+signal or source data
+        ↓
+validation and explicit quality gates
+        ↓
+reproducible evidence
+        ↓
+reviewable software decision
+```
+
+- **Backend:** Python, FastAPI, .NET/C#, Node.js, Express, REST APIs
+- **Data:** PostgreSQL, SQLite, Oracle, deterministic ETL, data quality
+- **Frontend:** React, TypeScript, JavaScript, accessible HTML/CSS
+- **Automation:** Playwright, Chrome extensions, PowerShell, workflow tooling
+- **Verification:** Pytest, xUnit, API tests, CI, dependency audits
+
+## Start here
+
+- [Portfolio and full project archive](https://eddie000321.github.io/)
+- [Public repositories](https://github.com/Eddie000321?tab=repositories)
+- [LinkedIn](https://www.linkedin.com/in/jleedev/)
